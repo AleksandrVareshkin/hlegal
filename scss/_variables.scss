@@ -1,0 +1,41 @@
+/*Colors*/
+
+/*Main*/
+
+$main : #323264;
+$alt: #46466E;
+$soft: #686887;
+
+/*Accent*/
+
+$accent: #F0145A;
+
+/*Active*/
+
+$regular: #24A3FF;
+$hover: #0085FF;
+$active: #006CCF;
+
+/*Grey*/
+
+$bg: #F5F5FA;
+$bgAlt: #EDEDF7;
+$text: #B3B3BA;
+$separator: #E6E6F0;
+
+/*White*/
+
+$white: #ffffff;
+
+/*Gradient*/
+
+
+$mainGrad: linear-gradient(128.63deg, #323264 0%, #323264 73.96%, #A54B5F 100%);
+$softGrad: linear-gradient(42.01deg, #323264 14.33%, #323264 51.39%, #7A425E 87.53%);
+$redGrad: linear-gradient(323.35deg, #F0145A 6.7%, #693264 70.36%);
+$supersoftGrad: linear-gradient(228.57deg, #323264 11.93%, #323264 57.17%, #643E72 87.46%);
+$redTextGrad: linear-gradient(90.13deg, #F0145A 0.84%, #EF8080 99.96%);
+
+/*Transition*/
+
+$transition: all linear 0.2s;
