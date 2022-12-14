@@ -1,0 +1,20 @@
+{
+    "name": "acf/text-block",
+    "title": "Text-block",
+    "description": "",
+    "style": [
+        "file:./css/style.css"
+    ],
+    "category": "formatting",
+    "icon": "editor-kitchensink",
+    "keywords": [
+        "text-block",
+        "quote"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "text-block.php"
+    },
+    "align": "full",
+    "anchor": "true"
+}

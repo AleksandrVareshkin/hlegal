@@ -1,0 +1,20 @@
+{
+    "name": "acf/intro-block",
+    "title": "Intro-block",
+    "description": "",
+    "style": [
+        "file:./css/style.css"
+    ],
+    "category": "formatting",
+    "icon": "feedback",
+    "keywords": [
+        "intro-block",
+        "quote"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "intro-block.php"
+    },
+    "align": "full",
+    "anchor": "true"
+}

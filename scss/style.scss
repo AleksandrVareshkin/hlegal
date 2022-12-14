@@ -1,6 +1,37 @@
+/**
+ * Theme Name:  hlegal
+ * Template:    #
+ * Description: Сайт IT компании
+ * 
+ * Theme URI:   #
+ * Author:      Vareshkin Aleksandr
+ * Author URI:  #
+ *
+ * Tags:        #
+ * Text Domain: #
+ *
+ * License:     #
+ * License URI: #
+ *
+ * Version:     1.0
+ */
 @import 'variables';
 @import 'reset';
 @import 'global';
 @import 'header';
 @import 'footer';
-@import 'about';
+@import 'contact';
+@import 'team';
+@import 'single-team';
+@import 'single-publication';
+@import 'services';
+@import 'benefits';
+@import 'team-slider';
+@import 'clients';
+@import 'about-intro';
+@import 'about-baner';
+@import 'text-block';
+@import 'achievements';
+@import 'intro-block';
+@import 'publications-block';
+@import 'team-block';

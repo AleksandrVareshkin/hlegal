@@ -1,0 +1,20 @@
+{
+    "name": "acf/about-intro",
+    "title": "About-intro",
+    "description": "",
+    "style": [
+        "file:./css/style.css"
+    ],
+    "category": "formatting",
+    "icon": "admin-home",
+    "keywords": [
+        "about-intro",
+        "quote"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "about-intro.php"
+    },
+    "align": "full",
+    "anchor": "true"
+}

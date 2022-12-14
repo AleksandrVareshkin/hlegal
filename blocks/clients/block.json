@@ -1,0 +1,20 @@
+{
+    "name": "acf/clients",
+    "title": "Clients",
+    "description": "",
+    "style": [
+        "file:./css/style.css"
+    ],
+    "category": "formatting",
+    "icon": "businessman",
+    "keywords": [
+        "clients",
+        "quote"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "clients.php"
+    },
+    "align": "full",
+    "anchor": "true"
+}

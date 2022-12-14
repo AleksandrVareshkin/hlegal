@@ -1,0 +1,18 @@
+.text-block {
+    &__box {
+
+        h2,
+        h3,
+        h4,
+        strong {
+            background: linear-gradient(90.13deg, #F0145A 0.84%, #EF8080 99.96%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        margin: 30px 0;
+        font-size: 19px;
+        line-height: 30px;
+    }
+}

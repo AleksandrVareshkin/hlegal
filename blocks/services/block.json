@@ -1,0 +1,20 @@
+{
+    "name": "acf/services",
+    "title": "Services",
+    "description": "",
+    "style": [
+        "file:./css/style.css"
+    ],
+    "category": "formatting",
+    "icon": "admin-generic",
+    "keywords": [
+        "services",
+        "quote"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "services.php"
+    },
+    "align": "full",
+    "anchor": "true"
+}

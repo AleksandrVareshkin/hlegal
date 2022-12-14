@@ -1,0 +1,20 @@
+{
+    "name": "acf/team-slider",
+    "title": "Team-slider",
+    "description": "",
+    "style": [
+        "file:./css/style.css"
+    ],
+    "category": "formatting",
+    "icon": "slides",
+    "keywords": [
+        "team-slider",
+        "quote"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "team-slider.php"
+    },
+    "align": "full",
+    "anchor": "true"
+}

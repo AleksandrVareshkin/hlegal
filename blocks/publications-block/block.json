@@ -1,0 +1,20 @@
+{
+    "name": "acf/publications-block",
+    "title": "Publications-block",
+    "description": "",
+    "style": [
+        "file:./css/style.css"
+    ],
+    "category": "formatting",
+    "icon": "welcome-widgets-menus",
+    "keywords": [
+        "publications-block",
+        "quote"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "publications-block.php"
+    },
+    "align": "full",
+    "anchor": "true"
+}

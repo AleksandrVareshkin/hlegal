@@ -1,0 +1,20 @@
+{
+    "name": "acf/team-block",
+    "title": "Team-block",
+    "description": "",
+    "style": [
+        "file:./css/style.css"
+    ],
+    "category": "formatting",
+    "icon": "admin-page",
+    "keywords": [
+        "team-block",
+        "quote"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "team-block.php"
+    },
+    "align": "full",
+    "anchor": "true"
+}

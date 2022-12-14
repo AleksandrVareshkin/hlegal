@@ -1,0 +1,20 @@
+{
+    "name": "acf/benefits",
+    "title": "Benefits",
+    "description": "",
+    "style": [
+        "file:./css/style.css"
+    ],
+    "category": "formatting",
+    "icon": "editor-ul",
+    "keywords": [
+        "benefits",
+        "quote"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "benefits.php"
+    },
+    "align": "full",
+    "anchor": "true"
+}

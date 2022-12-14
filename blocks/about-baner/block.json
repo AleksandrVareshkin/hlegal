@@ -1,0 +1,20 @@
+{
+    "name": "acf/about-baner",
+    "title": "About-baner",
+    "description": "",
+    "style": [
+        "file:./css/style.css"
+    ],
+    "category": "formatting",
+    "icon": "format-image",
+    "keywords": [
+        "about-baner",
+        "quote"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "about-baner.php"
+    },
+    "align": "full",
+    "anchor": "true"
+}
